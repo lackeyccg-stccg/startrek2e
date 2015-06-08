@@ -1,0 +1,62 @@
+1	Azetbur Visionary Chancellor
+1	Kerla Military Advisor
+1	Klag Second Officer
+1	K'mpec Protector of the Empire
+1	Kohlar Pilgrim Commander
+1	Kohlar Pilgrim Commander
+1	Ro'suv
+1	Ro'suv
+1	Bregath
+1	Bregath
+1	Bregath
+1	Khos
+1	Khos
+1	M'vil
+1	M'vil
+1	Dokar
+1	Dokar
+1	Kahmis
+1	Kahmis
+1	Meraht
+1	Meraht
+1	T'vis
+1	T'vis
+1	T'vis
+1	Vorax
+1	Vorax
+1	I.K.S. K'Vort
+1	I.K.S. K'Vort
+1	I.K.S. Vor'cha
+1	I.K.S. Vor'cha
+1	Persistent Strike
+1	Persistent Strike
+1	Unexpected Difficulties
+1	Escape
+1	Uninvited
+Dilemmas:
+1	Breaking the Ice
+1	Dark Page
+1	Dark Page
+1	Ferengi Locator Bomb
+1	Healing Hand
+1	Mark of Gideon
+1	Honorable Pursuit
+1	Family
+1	Pillage and Plunder
+1	Infinite Diversity
+1	Show Trial
+1	Setting the Stage
+1	The First Duty
+1	Unfair Comparison
+1	One Step Ahead
+1	The Launching
+1	Slightly Overbooked
+1	Spatial Interphase
+1	Unfair Terms
+1	Timescape
+Missions:
+1	Honor the Fallen
+1	Protect the Escapees
+1	Brute Force
+1	Qo'noS Heart of the Empire
+1	Cardassia IV Rescue Prisoners

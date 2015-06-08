@@ -1,0 +1,1112 @@
+<packdefinitions version="1.0">
+<pack>
+<packtitle>Second Edition DS9 Starter</packtitle>
+<packimage>01-SE-DS9</packimage>
+<packformat>Standard</packformat>
+<packkind>Sealed Deck</packkind>
+<packdoubles>yes</packdoubles>
+<packcommoncrit><field>Set</field><eval>IS</eval><data>SE</data></packcommoncrit>
+<chance>
+<kind><qty>3</qty>
+<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+</kind>
+<kind><qty>3</qty>
+<crit><field>Name</field><eval>IS</eval><data>U.S.S. Akira</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Recurring Injury</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Anara</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Brilgar</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Jabara</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Shandor</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Hoya</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Mills</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Antedean Assassins</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Stellar Core Fragment</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kolaran Raiders</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Limited Welcome</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>D'Arsay Archive</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Command Decisions</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Ties of Blood and Water</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Pinned Down</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Render Assistance</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Systems Diagnostic</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Wavefront</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Medical Tricorder</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Authenticate Artifacts</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Altman</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Bandee</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Ornaran Threat</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Paulson</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>T'Lor</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Bhavani</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Leyor</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Triage</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Security Briefing</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Fissure Research</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Mining Survey</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Search for Survivors</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Equipment Malfunction</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Mouth of the Wormhole Deep Space 9</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Worf Strategic Operations Officer</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Benjamin Sisko Defiant Captain</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Li Nalas Legend of Bajor</data></crit>
+</kind>
+<kind><qty>2</qty>
+<crit><field>Name</field><eval>IS</eval><data>Cry "Havoc!"</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Ty Kajada Relentless Investigator</data></crit>
+</kind>
+</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+<packtitle>Second Edition Klingon Starter</packtitle>
+<packimage>01-SE-Kli</packimage>
+<packformat>Standard</packformat>
+<packkind>Sealed Deck</packkind>
+<packdoubles>yes</packdoubles>
+<packcommoncrit><field>Set</field><eval>IS</eval><data>SE</data></packcommoncrit>
+<chance>
+<kind><qty>3</qty>
+<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Vorax</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Vorax</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Vorax</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kahmis</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kahmis</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kahmis</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Dokar</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Dokar</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Dokar</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>I.K.S. Vor'cha</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>I.K.S. Vor'cha</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>I.K.S. Vor'cha</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>B'amara</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>B'amara</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kroval</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kroval</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Meraht</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Meraht</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>T'vis</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>T'vis</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Tense Negotiations</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Tense Negotiations</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Microbrain</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Microbrain</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Stellar Core Fragment</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Stellar Core Fragment</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Pinned Down</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Pinned Down</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Render Assistance</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Render Assistance</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>The Promise</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>The Promise</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Command Decisions</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Command Decisions</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>D'Arsay Archive</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>D'Arsay Archive</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Limited Welcome</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Limited Welcome</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kolaran Raiders</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kolaran Raiders</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Wavefront</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Systems Diagnostic</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Rabal</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Triage</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Ornaran Threat</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Authenticate Artifacts</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Study Cometary Cloud</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Explore Black Cluster</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Khitomer Investigation</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Sensitive Search</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Equipment Malfunction</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>I.K.S. K'Vort</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Cry "Havoc!"</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Cry "Havoc!"</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Gowron Leader of the High Council</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Gowron Leader of the High Council</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kahlest GhojmoH of Worf</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kitrik "The Tyrant Molor"</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>K'nera Klingon Defense Force Commander</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Qo'noS Heart of the Empire</data></crit>
+</kind>
+<crit><field>Name</field><eval>IS</eval><data>Ty Kajada Relentless Investigator</data></crit>
+</kind>
+</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+<packtitle>Second Edition TNG Starter</packtitle>
+<packimage>01-SE-TNG</packimage>
+<packformat>Standard</packformat>
+<packkind>Sealed Deck</packkind>
+<packdoubles>yes</packdoubles>
+<packcommoncrit><field>Set</field><eval>IS</eval><data>SE</data></packcommoncrit>
+<chance>
+<kind><qty>3</qty>
+<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Martin</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Martin</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Martin</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>U.S.S. Nebula</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>U.S.S. Nebula</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>U.S.S. Nebula</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Tricorder</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Tricorder</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Bynars' Password</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Bynars' Password</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Recurring Injury</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Recurring Injury</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Antedean Assassins</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Antedean Assassins</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Daniel Kwan</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Daniel Kwan</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Van Orton</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Van Orton</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Rixx</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Rixx</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Lopez</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Lopez</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>D'Arsay Archive</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>D'Arsay Archive</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Mission Briefing</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Mission Briefing</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Render Assistance</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Render Assistance</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Command Decisions</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Command Decisions</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kolaran Raiders</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kolaran Raiders</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Limited Welcome</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Limited Welcome</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Pinned Down</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Pinned Down</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Authenticate Artifacts</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Ornaran Threat</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Systems Diagnostic</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Wavefront</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Davies</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Triage</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Lian T'su</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Surgery Under Fire</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Geological Survey</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Host Metaphasic Shielding Test</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Intercept Renegade</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Equipment Malfunction</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>U.S.S. Sovereign</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Cry "Havoc!"</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Cry "Havoc!"</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Andrea Brand Academy Superintendent</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Elizabeth Shelby Formidable Presence</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Jean-Luc Picard Explorer</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Jean-Luc Picard Explorer</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Robin Lefler Mission Specialist</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>William T. Riker Number One</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Worf Security Detail Leader</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Earth Cradle of the Federation</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Pran Tainer Atrean Seismologist</data></crit>
+</kind>
+</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+<packtitle>Second Edition Romulan Starter</packtitle>
+<packimage>01-SE-Rom</packimage>
+<packformat>Standard</packformat>
+<packkind>Sealed Deck</packkind>
+<packdoubles>yes</packdoubles>
+<packcommoncrit><field>Set</field><eval>IS</eval><data>SE</data></packcommoncrit>
+<chance>
+<kind><qty>3</qty>
+<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Jorvas</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Jorvas</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Jorvas</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Sabrun</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Sabrun</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Sabrun</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>D'deridex</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>D'deridex</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>D'deridex</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Stellar Core Fragment</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Stellar Core Fragment</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Chagrith</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Chagrith</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Dralvak</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Dralvak</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Noram</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Noram</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Talvin</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Talvin</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Microbrain</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Microbrain</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Recurring Injury</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Recurring Injury</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kolaran Raiders</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kolaran Raiders</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>D'Arsay Archive</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>D'Arsay Archive</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Limited Welcome</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Limited Welcome</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Render Assistance</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Render Assistance</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Shady Resources</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Shady Resources</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Thexor</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Thexor</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Pinned Down</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Pinned Down</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Command Decisions</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Command Decisions</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Engineering PADD</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Wavefront</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Ornaran Threat</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Authenticate Artifacts</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Triage</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Rabal</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Systems Diagnostic</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Supervise Dilithium Mine</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Abduction Plot</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Investigate Coup</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Investigate Rogue Comet</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Equipment Malfunction</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>The Reman Mines</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Cry "Havoc!"</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Cry "Havoc!"</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Etana Jol Ktarian Operative</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Cretak Supporter of the Alliance</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Movar Political General</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Shinzon Romulan Praetor</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Shinzon Romulan Praetor</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Romulus Seat of Power</data></crit>
+</kind>
+</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+<packtitle>Call to Arms Dominion Starter</packtitle>
+<packimage>03-CA-Dom</packimage>
+<packformat>Standard</packformat>
+<packkind>Sealed Deck</packkind>
+<packdoubles>yes</packdoubles>
+<chance>
+<kind><qty>3</qty>
+<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+<crit><field>Set</field><eval>IS</eval><data>CA</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Tozara'Kesh</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Tozara'Kesh</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Tozara'Kesh</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Founder Councilor</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Founder Councilor</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Founder Councilor</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Imat'Korex</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Imat'Korex</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Imat'Korex</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Rak'tazan</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Rak'tazan</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Rak'tazan</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Jem'Hadar Warship</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Jem'Hadar Warship</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>E'Tyshra</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>E'Tyshra</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Sunad</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Sunad</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Odera'Klen</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Odera'Klen</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Psycho-Kinetic Attack</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Psycho-Kinetic Attack</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>D'Arsay Archive</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>D'Arsay Archive</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Render Assistance</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Render Assistance</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Noret'ikar</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Noret'ikar</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Command Decisions</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Command Decisions</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>DNA Analysis</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>DNA Analysis</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Inside Collaborators</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Inside Collaborators</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kolaran Raiders</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kolaran Raiders</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Limited Welcome</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Limited Welcome</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Pinned Down</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Pinned Down</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Jem'Hadar Attack Ship</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Jem'Hadar Attack Ship</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Varen'agor</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Wavefront</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Ornaran Threat</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Systems Diagnostic</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Authenticate Artifacts</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Triage</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Survey Star System</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Destroy Iconian Gateway</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Rescue Prisoners of War</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Torga IV Salvage Dominion Ship</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Sokath, His Eyes Uncovered!</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Cry "Havoc!"</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Cry "Havoc!"</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Founder Leader Forbidding Judge</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Founder Leader Forbidding Judge</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kilana Dissembling Envoy</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Martok Founder Poison of the Empire</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Founders' Homeworld Home of the Great Link</data></crit>
+</kind>
+</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+<packtitle>Call to Arms Borg Starter</packtitle>
+<packimage>03-CA-Bor</packimage>
+<packformat>Standard</packformat>
+<packkind>Sealed Deck</packkind>
+<packdoubles>yes</packdoubles>
+<chance>
+<kind><qty>3</qty>
+<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+<crit><field>Set</field><eval>IS</eval><data>CA</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Acclimation Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Acclimation Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Acclimation Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Borg Sphere</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Borg Sphere</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Borg Sphere</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Opposition Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Opposition Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Transwarp Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Transwarp Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Computation Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Computation Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Invasive Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Invasive Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Research Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Research Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Cartography Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Cartography Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Information Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Information Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Analyze</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Analyze</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Render Assistance</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Render Assistance</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Calibration Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Calibration Drone</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Command Decisions</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Command Decisions</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Failure To Communicate</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Failure To Communicate</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Justice or Vengeance</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Justice or Vengeance</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kolaran Raiders</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Kolaran Raiders</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Limited Welcome</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Limited Welcome</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Pinned Down</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Pinned Down</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>An Old Debt</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>An Old Debt</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Wavefront</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Systems Diagnostic</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Borg Cube</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Triage</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Ornaran Threat</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Authenticate Artifacts</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Salvage Borg Ship</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Assault on Species 8472</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Battle Reconnaissance</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Hunt Alien</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Sokath, His Eyes Uncovered!</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Salvaging the Wreckage</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Salvaging the Wreckage</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Salvaging the Wreckage</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Borg Queen Bringer of Order</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Borg Queen Bringer of Order</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Seven of Nine Representative of the Hive</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Unicomplex Root of the Hive Mind</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Borg Cutting Beam</data></crit>
+</kind>
+<kind><qty>1</qty>
+<crit><field>Name</field><eval>IS</eval><data>Borg Cutting Beam</data></crit>
+</kind>
+</chance>
+</pack>
+</packdefinitions>

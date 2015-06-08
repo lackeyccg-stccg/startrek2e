@@ -1,0 +1,243 @@
+<plugin>
+<playerstat>
+	<label>Points</label>
+	<initialvalue>0</initialvalue>
+</playerstat>
+<playerstat>
+	<label>Counters</label>
+	<initialvalue>7</initialvalue>
+</playerstat>
+<deckzone>
+     <label>Deck</label>
+     <gamezonetoloadto>Deck</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+<deckzone>
+     <label>Dilemmas</label>
+     <gamezonetoloadto>Dilemmas</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+<deckzone>
+     <label>Missions</label>
+     <gamezonetoloadto>Missions</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+<deckzone>
+     <label>Aside</label>
+     <gamezonetoloadto>Aside</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+<gamezone>
+     <label>Hand</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Deck</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Discard</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Removed</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Dilemmas</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Missions</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Hand Dilemmas</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Bottom Dilemmas</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Crew 1</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Crew 2</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Crew 3</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Crew 4</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Aside</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<phase>
+	<label>Play/Draw</label>
+</phase>
+<phase>
+	<label>Execute Orders</label>
+</phase>
+<phase>
+	<label>Discard</label>
+</phase>
+<generalfunction>
+	<label>Draw</label>
+	<kind>DRAWCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Probe</label>
+	<kind>DRAWCARDTOTABLE</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Discard from Deck</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Deck</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>performer</destinationowner>
+	<destinationgamezone>Discard</destinationgamezone>
+	<destinationposition>top</destinationposition>	
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Draw Dilemma</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Dilemmas</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>performer</destinationowner>
+	<destinationgamezone>Hand Dilemmas</destinationgamezone>
+	<destinationposition>top</destinationposition>	
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Bottom Dilemma</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Hand Dilemmas</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>performer</destinationowner>
+	<destinationgamezone>Bottom Dilemmas</destinationgamezone>
+	<destinationposition>top</destinationposition>	
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Consume</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Dilemmas</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>table</destinationowner>
+	<destinationposition>faceup</destinationposition>	
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Next Turn</label>
+	<kind>NEXTTURN</kind>
+	<includeasbutton>no</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Previous Turn</label>
+	<kind>PREVIOUSTURN</kind>
+	<includeasbutton>no</includeasbutton>
+</generalfunction>
+<cardfunction>
+	<label>Flip</label>
+	<kind>TURNOVER</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Tap</label>
+	<kind>MAKERIGHT90DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Untap</label>
+	<kind>MAKERIGHT0DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Overcome +1</label>
+	<kind>ADDCOUNTER</kind>
+	<color>yellow</color>
+	<PositionX>.5</PositionX>
+	<PositionY>.04</PositionY>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Overcome -1</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>yellow</color>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Black +1</label>
+	<kind>ADDCOUNTER</kind>
+	<color>black</color>
+	<PositionX>.95</PositionX>
+	<PositionY>.94</PositionY>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Black -1</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>black</color>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Edit Note</label>
+	<kind>EDITNOTE</kind>
+	<PositionX>.4</PositionX>
+	<PositionY>.95</PositionY>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Clear</label>
+	<kind>CLEARCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Change Control</label>
+	<kind>CHANGEOWNER</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<definition>
+	<kind>REUSECARDIMAGES</kind>
+</definition>
+<definition>
+	<kind>ISYOURFACEDOWNVISIBLE</kind>
+</definition>
+<definition>
+	<kind>ISSTACKEDCARDSFLAT</kind>
+</definition>
+<definition>
+	<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+</definition>
+<definition>
+	<kind>MULTIPLECARDBACKSNAMESVISIBLETO</kind>
+	<value>owner</value>
+</definition>
+</plugin>

@@ -1,0 +1,62 @@
+1	Evek Agent of Cardassian Justice
+1	Jasad
+1	Jasad
+1	Damar Ambitious Glinn
+1	Dukat Ambitious Commander
+1	Tora Ziyal Ambitious Daughter
+1	Tugat
+1	Tugat
+1	Tugat
+1	Goran
+1	Goran
+1	Jural
+1	Jural
+1	Jural
+1	Thorel
+1	Thorel
+1	Daro
+1	Jerax
+1	Rogesh
+1	Rogesh
+1	Rogesh
+1	Rabal
+1	Rabal
+1	Rabal
+1	Groumall Inauspicious Command
+1	Groumall Inauspicious Command
+1	Groumall Inauspicious Command
+1	Galor
+1	Galor
+1	Unexpected Difficulties
+1	Ensnared
+1	Ensnared
+1	Prison Compound
+1	Superior Position
+1	Uninvited
+Dilemmas:
+1	Breaking the Ice
+1	Chula: The Precipice
+1	Dark Page
+1	Dark Page
+1	Gravitational Anomaly
+1	Galileo Grounded
+1	Polywater Intoxication
+1	Mark of Gideon
+1	Honorable Pursuit
+1	Family
+1	Pillage and Plunder
+1	Inequitable Exchange
+1	Setting the Stage
+1	Miner Revolt
+1	Rude Awakening
+1	We'll Never Know
+1	The First Duty
+1	The Launching
+1	Personal Duty
+1	Timescape
+Missions:
+1	Cardassia Prime Hardscrabble World
+1	Survey New World
+1	Acquire Illicit Explosives
+1	Collect Sample
+1	Geological Survey

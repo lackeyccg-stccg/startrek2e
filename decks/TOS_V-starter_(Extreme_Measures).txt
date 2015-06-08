@@ -1,0 +1,62 @@
+1	James T. Kirk Experienced Commander
+1	Leonard H. McCoy Experienced Advisor
+1	Montgomery Scott Experienced Engineer
+1	Number One Reputable Officer
+1	Valeris Co-Conspirator
+1	Spock Experienced Officer
+1	Hikaru Sulu Loyal Captain
+1	Watley Recent Transfer
+1	Willard Decker Recommended Replacement
+1	Laurence T. Stone Portmaster
+1	Helen Noel Enterprise Psychiatrist
+1	Arandis Risan Facilitator
+1	Karl Jaeger
+1	Karl Jaeger
+1	Evans
+1	Evans
+1	Nagata
+1	Nagata
+1	Nagata
+1	Tristan Adams Deranged Psychiatrist
+1	Josephs
+1	Mark Piper
+1	Mark Piper
+1	Thon
+1	Thon
+1	Gaard
+1	Gaard
+1	Rabal
+1	U.S.S. Enterprise Where She Belongs
+1	U.S.S. Enterprise Where She Belongs
+1	U.S.S. Constitution
+1	U.S.S. Constitution
+1	Unexpected Difficulties
+1	Escape
+1	Uninvited
+Dilemmas:
+1	Breaking the Ice
+1	Code Forty-Seven
+1	Dark Page
+1	Dark Page
+1	Forced Into Labor
+1	Ferengi Locator Bomb
+1	Gravitational Anomaly
+1	Echo Papa Attack
+1	Healing Hand
+1	Mark of Gideon
+1	Honorable Pursuit
+1	Family
+1	Pillage and Plunder
+1	Setting the Stage
+1	Just Following Orders
+1	Occupational Hazards
+1	The First Duty
+1	One Step Ahead
+1	The Launching
+1	Timescape
+Missions:
+1	Earth Lush and Beautiful Home
+1	Evade Borg Vessel
+1	Avert Danger
+1	Explore Black Cluster
+1	Runabout Search

@@ -1,0 +1,280 @@
+CHANGELOG startrek2e plugin
+
+
+------
+0.1 beta release for public 
+(Nava)
+
+NEW
+- All sets and errata as of 03-18-11 integrated
+- Virtual starters included
+- Selecting boosters and starters for sealed games enabled
+
+
+------
+0.2 beta release 
+(Nava, MidnightLich, Jerad)
+
+CHANGES
+- Changed visibility for Discard Pile (thanks MidnightLich)
+- Changed problem with visibility of dilemmas put under your Dilemma pile (thanks Jerad)
+
+
+------
+0.3 beta release (05-09-11) 
+(Nava)
+
+NEW
+- Added VP87 • Surprise Party
+
+
+------
+0.4 beta release: (05-21-11) 
+(Nava, eberlems)
+
+NEW
+- Added images for AP013-AP06 (thanks eberlems)
+- Added commands for "Consume" and "Discard top from deck"
+
+CHANGES
+- Corrected error on "Transport Crash Survivors"
+- Corrected images for 01094-01193, 01208, 01314 (thanks jarred)
+
+
+------
+0.5 beta release: (06-07-11) 
+(Nava)
+
+CHANGES
+- Added June 2011 errata.
+
+
+------
+0.6 beta release (07-06-11) 
+(Nava, eberlems)
+
+CHANGES
+- Added July 2011 errata
+- Corrected image error on Sean Hawkins (thanks eberlems)
+- Button of Dilemmas not visible to owner anymore (thanks eberlems)
+
+
+------
+0.7 beta release (08-09-11) 
+(Nava, Servius1983)
+
+NEW
+- Added Tacking in the Wind cards (thank you Servius1983!!!)
+
+CHANGES
+- Added the errata for Kira Nerys Ih'valla
+- Corrected image error on Tampering with Time (thanks eberlems)
+- Moved plugin to a new plugininfo.txt format (again)
+- Corrected naming scheme in EM set to make card names consistent
+
+
+------
+0.8  beta release (10-31-11) 
+(Nava)
+
+NEW
+- Added version control
+- Added the possibility to delete outdated files automatically
+- Added a set of canned messages
+- Added The Pendari Champion, so that all players in the League event can use that card.
+
+CHANGES
+- Changed image file for Elim Garak - Federation Agent (AP016)
+
+
+------
+0.9 beta release (12-25-11) 
+(Nava)
+
+NEW
+- Added all Unity cards
+
+CHANGES
+- Corrected image for Bareil Antos Esteemed Vedek (1R208)
+- Corrected image for Damar Loyal Glinn (1U231)
+- Corrected image for Nu'Daq Tenacious Rival (1R314)
+- Corrected image for I.K.S. Rotarran Ship of Tears (1R402)
+- Corrected image for Enemy in your Midst (3C043)
+- Corrected image for Changeling Sabotage (3C040)
+- Corrected image for Preservation Drone (3C135)
+- Corrected image for Quark Resistance Informant (3R182)
+- Corrected image for Jean-Luc Picard Vintner (6P049)
+- Corrected image for Arridor Great Sage (7R070)
+- Corrected image for Brunt FCA Liquidator (7R074)
+- Corrected image for Lurin Renegade Daimon (7R083)
+- Corrected image for Rom Younger Brother (7R090)
+
+
+------
+1.0 (03-29-12) 
+(Nava, scox, Maelwys, eberlems)
+
+We have to thank all the people who made requests, comments and helped improve the plugin (eberlems!!), the crew from trekcc and especially Maelwys who helped in every imaginable way!
+
+CHANGES
+- Plugin data now synchronized with trekcc information
+  - All card titles and card information are synch'd with the trekcc.org database
+  - All erenous card images should be deleted and reinstalled
+  - All image names are now the same as trekcc internal images
+  - All AP and VP should now be accessible
+  - All outdated files are automatically deleted
+  - VP and AP versions are denoted by an *VP or *AP resp.
+- Virtual starters are now updated to release 1.4.1
+- New counter design mimicking the startrek rank pips
+- Integrated rudimentary features for online draft (will be enhanced in future releases)
+- Plugin now under automatic version control
+
+
+------
+1.1. (05-13-12)
+(Nava)
+
+CHANGES 
+- May 2012 errata file included
+
+
+------
+1.2 (07-01-12)
+(Nava)
+
+NEW
+- Lineage cards included.
+- All cards being tournament legal on 07-02-12 should get their updated images when available.
+
+
+------
+1.3 (09-21-12)
+(Nava)
+
+NEW
+- Tapestry cards included.
+
+
+------
+1.31 (12-12-12)
+(Nava)
+
+NEW
+- League promo (Hajur - Veteran Fighter) added
+
+CHANGES
+- December errata included a
+
+
+------
+1.32 (01-08-13)
+(Nava)
+
+NEW
+- Virtual Promos printable on 13-01-07 added
+
+CHANGES
+-Restore Errant Moon should now show the correct image
+
+
+------
+1.33 (02-04-13)
+(Nava)
+
+CHANGES
+- February errata included
+
+
+------
+1.4 (02-24-13)
+(Nava)
+
+NEW
+- Matter of Time cards included
+
+------
+1.41 (05-14-13)
+(Nava)
+
+CHANGES
+- May errata included
+
+CHANGES
+- Cart titles for the VP of Ezri Tigan Soldier of Fortune, U.S.S. Enterprise-A Chariot of "God" and Pendari Champion Electrifying Champion corrected by adding *VP
+- Name of Enrique Muñiz changed to Enrique Muniz to avoid LackeyCCG errors
+
+------
+1.42 (07-04-13)
+(Nava)
+
+CHANGES
+- New printable Promos added
+
+------
+1.5 (09-12-13)
+(Nava)
+
+NEW
+- Unnatural Selection included
+
+CHANGES
+- September errata included
+- Saavik Prot g e is now Saavik Protegee
+- Corrected numerous typing errors and other errors in game text
+
+------
+1.6 (03-14-14)
+(Nava)
+
+NEW
+- Return to Grace included
+
+CHANGES
+- March errata included
+- Hajur image corrected
+- The Paly's The Thing and Back Room Dealings (VP) included
+
+------
+1.61 (04-23-14)
+(Nava)
+
+CHANGES
+- April errata included
+
+------
+1.7 (09-12-14)
+(Nava)
+
+NEW
+- Balance of Terror included
+
+CHANGES
+- September errata included
+- Added keywords on RtG cards
+- Added mission VP 127-140
+
+------
+1.71 (09-19-14)
+(Nava)
+
+CHANGES
+- Updated Virtual Starters
+- Corrected some spelling errors
+
+------
+1.8 (12-08-14)
+(Nava)
+
+NEW
+- Added 20th Anniversary Collection
+CHANGES
+- Included December Errata
+
+------
+1.9 (04-24-15)
+(Nava)
+
+NEW
+- Added Strange Bedfellows
+CHANGES
+- Included April Errata

@@ -1,0 +1,62 @@
+1	Valeris Co-Conspirator
+1	Tabor Apoplectic Bajoran
+1	Ro Laren Apologetic Defector
+1	Anhaica
+1	Anhaica
+1	Anhaica
+1	Anthwara Leader of the Tribal Council
+1	Sakonna Puzzled Interrogator
+1	Kituhwa Tribal Historian
+1	Wakasa Tribal Councilor
+1	Cal Hudson Convincing Recruiter
+1	Cal Hudson Convincing Recruiter
+1	Niles
+1	Niles
+1	Niles
+1	M'vil
+1	M'vil
+1	Harana
+1	Harana
+1	Kobb
+1	Macius
+1	Macius
+1	Sark
+1	Reide
+1	Cosette Reliable Raider
+1	Javert Maquis Flagship
+1	Javert Maquis Flagship
+1	Maquis Raider
+1	Habak
+1	Habak
+1	Not Easily Taken
+1	Unexpected Difficulties
+1	For the Cause
+1	Escape
+1	Uninvited
+Dilemmas:
+1	Infatuation
+1	Dark Page
+1	Dark Page
+1	Echo Papa Attack
+1	Healing Hand
+1	Honorable Pursuit
+1	Family
+1	Greater Needs
+1	Predictable Response
+1	Pillage and Plunder
+1	Infinite Diversity
+1	Setting the Stage
+1	Information Extraction
+1	Just Following Orders
+1	The First Duty
+1	One Step Ahead
+1	Rush Job
+1	The Launching
+1	Sudden Stealth
+1	Timescape
+Missions:
+1	Athos IV Maquis Base
+1	Elude Federation Forces
+1	Investigate Maquis Activity
+1	Evacuate Colony
+1	Intercept Maquis

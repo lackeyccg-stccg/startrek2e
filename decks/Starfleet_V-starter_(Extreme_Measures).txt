@@ -1,0 +1,62 @@
+1	Hoshi Sato Uneasy Educator
+1	Elder T'Pol Displaced Survivor
+1	Elder T'Pol Displaced Survivor
+1	Greer
+1	Greer
+1	Greer
+1	Karyn Archer Displaced Descendant
+1	Karyn Archer Displaced Descendant
+1	Lorian Displaced Descendant
+1	Lorian Displaced Descendant
+1	Jonathan Archer Heroic Diplomat
+1	Fiona McKenzie Experienced Corporal
+1	Masaro Idealistic Saboteur
+1	Gannet Brooks Undercover Operative
+1	Charles Tucker III Damaged Engineer
+1	T'Pol Damaged Science Officer
+1	Phlox Alien Physiologist
+1	A. G. Robinson Prototype Captain
+1	Nathan Samuels Earth Minister
+1	Nathan Samuels Earth Minister
+1	Gaeta
+1	Brennan Scott
+1	Brennan Scott
+1	McDermott
+1	McDermott
+1	Amanda Cole
+1	Sascha Money
+1	Sascha Money
+1	Future Enterprise Displaced Starship
+1	Future Enterprise Displaced Starship
+1	Future Enterprise Displaced Starship
+1	NX-Prototype
+1	Unexpected Difficulties
+1	Escape
+1	Uninvited
+Dilemmas:
+1	Breaking the Ice
+1	Dark Page
+1	Dark Page
+1	Healing Hand
+1	Polywater Intoxication
+1	Mark of Gideon
+1	Honorable Pursuit
+1	Family
+1	Predictable Response
+1	Pillage and Plunder
+1	Show Trial
+1	Setting the Stage
+1	We'll Never Know
+1	Occupational Hazards
+1	The First Duty
+1	One Step Ahead
+1	The Launching
+1	Personal Duty
+1	Timescape
+1	Timescape
+Missions:
+1	Earth Humanity's Home
+1	Secure Strategic Base
+1	Automated Repair Station
+1	Eliminate Sphere Network
+1	Ceti Alpha V Find Lifeless World

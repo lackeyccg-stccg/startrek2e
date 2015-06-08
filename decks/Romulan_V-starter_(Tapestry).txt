@@ -1,0 +1,62 @@
+1	Romulan Impersonator "Geordi La Forge"
+1	Sela Supervising Operative
+1	D'Ral Mutinous Commander
+1	Sorus
+1	Sorus
+1	Neral Seasoned Politician
+1	Karina Hindering Analyst
+1	Data From the City of Rateg
+1	The Viceroy Advisor to the Praetor
+1	Ba'el Clutching Two Worlds
+1	Gi'ral Reproachful Matriarch
+1	L'Kor Ranking Elder
+1	Tokath Keeping the Peace
+1	Donatra Honorable Commander
+1	Toq
+1	Toq
+1	Toq
+1	Ptol
+1	Ptol
+1	Ptol
+1	Noram
+1	Noram
+1	Noram
+1	Talvin
+1	Talvin
+1	Bird-of-Prey
+1	Bird-of-Prey
+1	Bird-of-Prey
+1	Romulan Scout Vessel
+1	Unexpected Difficulties
+1	The Perils of Peacemaking
+1	Escape
+1	Uninvited
+1	Posturing
+1	Posturing
+Dilemmas:
+1	Dark Page
+1	Dark Page
+1	Forced Into Labor
+1	Healing Hand
+1	The Big Goodbye
+1	Intimidation
+1	Mark of Gideon
+1	Honorable Pursuit
+1	Family
+1	Predictable Response
+1	Pillage and Plunder
+1	Show Trial
+1	Setting the Stage
+1	Just Following Orders
+1	One to One
+1	The First Duty
+1	One Step Ahead
+1	The Launching
+1	Personal Duty
+1	Timescape
+Missions:
+1	Romulus Seat of Power
+1	Conceal Unlikely Society
+1	Investigate Rogue Comet
+1	Khitomer Investigation
+1	Sensitive Search

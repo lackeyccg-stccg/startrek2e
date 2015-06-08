@@ -1,0 +1,62 @@
+1	Weyoun Scheming Negotiator
+1	Dukat Cardassian Representative
+1	Malik Devious Augment
+1	Davin
+1	Davin
+1	Davin
+1	Magren
+1	Magren
+1	Magren
+1	Nerot
+1	Nerot
+1	Thorel
+1	Narik
+1	Narik
+1	Imat'Korex
+1	Imat'Korex
+1	Imat'Korex
+1	Noret'ikar
+1	Noret'ikar
+1	Rak'tazan
+1	Rak'tazan
+1	Rak'tazan
+1	Tozara'Kesh
+1	Tozara'Kesh
+1	Sharat
+1	Sharat
+1	Sharat
+1	Togaran
+1	Tenak'talar Vanguard of the Occupation
+1	Jem'Hadar Attack Ship
+1	Jem'Hadar Attack Ship
+1	Jem'Hadar Warship
+1	Unexpected Difficulties
+1	Escape
+1	Uninvited
+Dilemmas:
+1	Chula: The Precipice
+1	Dark Page
+1	Dark Page
+1	Gravitational Anomaly
+1	Echo Papa Attack
+1	Healing Hand
+1	Full Complement
+1	Mark of Gideon
+1	Honorable Pursuit
+1	Predictable Response
+1	Pillage and Plunder
+1	Show Trial
+1	Setting the Stage
+1	Miner Revolt
+1	We'll Never Know
+1	The First Duty
+1	One Step Ahead
+1	Personal Duty
+1	The Caretaker's "Guests"
+1	Timescape
+Missions:
+1	Mouth of the Wormhole Terok Nor
+1	Restock Ketracel-White
+1	Acquire Illicit Explosives
+1	Evacuate Colony
+1	Search for Survivors

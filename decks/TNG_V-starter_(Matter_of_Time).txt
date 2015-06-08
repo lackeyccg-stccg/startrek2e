@@ -1,0 +1,62 @@
+1	Miles O'Brien Conn Officer
+1	Jenna D'Sora Veteran Security Officer
+1	Fredericks
+1	Fredericks
+1	Nella Daren Head of Stellar Cartography
+1	Jocelyn LoPresti Coming to Grips
+1	Hikaru Sulu Loyal Captain
+1	Rachel Garrett Restoring the Past
+1	Rhys Parker Fulfilling Destiny
+1	Richard Castillo Assuming Command
+1	Morgan Bateson Confident Commander
+1	Delvok
+1	Delvok
+1	Orfil Quinteros
+1	Orfil Quinteros
+1	Daniel Kwan
+1	Daniel Kwan
+1	Davies
+1	Davies
+1	Lian T'su
+1	Lian T'su
+1	Lopez
+1	Lopez
+1	Martin
+1	Martin
+1	Rixx
+1	Rixx
+1	U.S.S. Bozeman Well-Preserved Antique
+1	U.S.S. Enterprise-C Temporal Linchpin
+1	U.S.S. Enterprise-C Temporal Linchpin
+1	U.S.S. Excelsior
+1	Unexpected Difficulties
+1	Diversionary Tactics
+1	Escape
+1	Uninvited
+Dilemmas:
+1	Breaking the Ice
+1	Chula: The Precipice
+1	Chula: The Precipice
+1	Code Forty-Seven
+1	Code Forty-Seven
+1	Dark Page
+1	Dark Page
+1	Gravitational Anomaly
+1	Healing Hand
+1	Galileo Grounded
+1	Chula: Unfortunate Roll
+1	Polywater Intoxication
+1	Mark of Gideon
+1	Pillage and Plunder
+1	Pillage and Plunder
+1	The First Duty
+1	The First Duty
+1	The Beast at El-Adrel
+1	Timescape
+1	Secret Identity
+Missions:
+1	Earth Cradle of the Federation
+1	Identify Temporal Disturbance
+1	Automated Repair Station
+1	Avert Danger
+1	Geological Survey

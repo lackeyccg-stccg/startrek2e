@@ -1,0 +1,62 @@
+1	Seven of Nine Prodigal Daughter
+1	Two of Two Adaptation Drone
+1	Scrutiny Drone
+1	Scrutiny Drone
+1	Defragmentation Drone
+1	Examination Drone
+1	Examination Drone
+1	Facilitation Drone
+1	Facilitation Drone
+1	Reconnaissance Drone
+1	Reconnaissance Drone
+1	Acclimation Drone
+1	Acclimation Drone
+1	Cartography Drone
+1	Cartography Drone
+1	Computation Drone
+1	Computation Drone
+1	Evaluation Drone
+1	Evaluation Drone
+1	Invasive Drone
+1	Invasive Drone
+1	Opposition Drone
+1	Opposition Drone
+1	Reclamation Drone
+1	Research Drone
+1	Research Drone
+1	Transwarp Drone
+1	Transwarp Drone
+1	Borg Cube
+1	Borg Cube
+1	Borg Sphere
+1	Borg Sphere
+1	Unexpected Difficulties
+1	Escape
+1	Uninvited
+Dilemmas:
+1	Breaking the Ice
+1	Dark Page
+1	Dark Page
+1	Forced Into Labor
+1	Gravitational Anomaly
+1	Healing Hand
+1	Mark of Gideon
+1	Honorable Pursuit
+1	Family
+1	Pillage and Plunder
+1	Setting the Stage
+1	Miner Revolt
+1	Just Following Orders
+1	We'll Never Know
+1	Occupational Hazards
+1	The First Duty
+1	What Lies Beneath
+1	Personal Duty
+1	The Clown: Bitter Medicine
+1	Timescape
+Missions:
+1	Unicomplex Root of the Hive Mind
+1	Assault on Species 8472
+1	Battle Reconnaissance
+1	Hunt Alien
+1	Salvage Borg Ship

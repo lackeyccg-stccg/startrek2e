@@ -1,0 +1,62 @@
+1	Li Nalas Vastly Outnumbered
+1	Odo Vastly Outnumbered
+1	Benjamin Sisko Man of Two Worlds
+1	Alenis Grem Occupation Historian
+1	Opaka Collaborator
+1	Heyath Yar
+1	Heyath Yar
+1	Mond
+1	Mond
+1	Winn Adami Renegade Priest
+1	Solbor Faithful Attendant
+1	Kira Nerys Lela
+1	Shakaar Edon First Minister of Bajor
+1	Anneli
+1	Yelsar
+1	Yelsar
+1	Brilgar
+1	Brilgar
+1	Dohlem
+1	Dohlem
+1	Hazar
+1	Hazar
+1	Keeve Falor
+1	Shandor
+1	Shandor
+1	Orb Transport Vessel
+1	Orb Transport Vessel
+1	Bajoran Scout Vessel
+1	Orb of Contemplation
+1	Orb of Prophecy and Change
+1	Orb of Time
+1	Boon of the Celestial Temple
+1	Unexpected Difficulties
+1	Hidden Resource
+1	Accession
+Dilemmas:
+1	Breaking the Ice
+1	Left Behind
+1	Dark Page
+1	Dark Page
+1	Coolant Leak
+1	Chula: Trickery
+1	Chula: Trickery
+1	Full Complement
+1	Mark of Gideon
+1	Family
+1	He Wasn't Nice
+1	Pillage and Plunder
+1	Nonlinear Existence
+1	Setting the Stage
+1	Information Extraction
+1	We'll Never Know
+1	The First Duty
+1	The Launching
+1	Personal Duty
+1	Timescape
+Missions:
+1	Bajor Blessed of the Prophets
+1	Defend Evolutionary Link
+1	Transport Delegations
+1	Investigate Maquis Activity
+1	Amnesty Talks

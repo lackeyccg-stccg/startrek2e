@@ -1,0 +1,62 @@
+1	Luaran Critical Coordinator
+1	Weyoun Scheming Negotiator
+1	Arak'Taral Suspicious Second
+1	Lore Brother and Son
+1	Founder Architect
+1	Founder Architect
+1	Malik Devious Augment
+1	Lam
+1	Lam
+1	Breen Founder Persuader
+1	Delvok
+1	Delvok
+1	Rodak'koden
+1	Founder Councilor
+1	Founder Councilor
+1	Founder Councilor
+1	Noret'ikar
+1	Noret'ikar
+1	Tozara'Kesh
+1	Tozara'Kesh
+1	Varen'agor
+1	Varen'agor
+1	Berild
+1	Berild
+1	Tenak'talar Vanguard of the Occupation
+1	Tenak'talar Vanguard of the Occupation
+1	Dominion Battleship
+1	Dominion Battleship
+1	Persistent Strike
+1	Persistent Strike
+1	Unexpected Difficulties
+1	Indebtedness
+1	Relentless Charge
+1	Escape
+1	Uninvited
+Dilemmas:
+1	Breaking the Ice
+1	Dark Page
+1	Dark Page
+1	Ferengi Locator Bomb
+1	Coolant Leak
+1	Polywater Intoxication
+1	Mark of Gideon
+1	Family
+1	Pillage and Plunder
+1	Setting the Stage
+1	Just Following Orders
+1	We'll Never Know
+1	The First Duty
+1	One Step Ahead
+1	The Launching
+1	The Beast at El-Adrel
+1	Personal Duty
+1	The Caretaker's "Guests"
+1	The Clown: Bitter Medicine
+1	Timescape
+Missions:
+1	Founders' Homeworld Home of the Great Link
+1	Plot Invasion
+1	Explore Black Cluster
+1	Feldomite Rush
+1	Fissure Research

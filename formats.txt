@@ -1,0 +1,17 @@
+<formatdefinitions>
+<format>
+	<label>Printed Sets</label>
+	<set>SE</set>
+	<set>En</set>
+	<set>CA</set>
+	<set>NE</set>
+	<set>FT</set>
+	<set>R2</set>
+	<set>SW</set>
+	<set>BG</set>
+	<set>DM</set>
+	<set>CL</set>
+	<set>Ge</set>
+	<set>TV</set>
+</format>
+</formatdefinitions>

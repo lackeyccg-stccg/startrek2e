@@ -1,0 +1,6 @@
+<version>
+<lastupdateYYMMDD>150424</lastupdateYYMMDD>
+<versionurl>http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/version.txt</versionurl>
+<updateurl>http://lackeyccg-startrek2e.googlecode.com/svn/trunk/startrek2e/updatelist.txt</updateurl>
+<message>update 1.9 April Errata and Strage Bedfellows release Change log: http://code.google.com/p/lackeyccg-startrek2e/wiki/ChangeLog<</message>
+</version>

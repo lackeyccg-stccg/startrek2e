@@ -1,0 +1,243 @@
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Boosterpack - Second Edition"</packtitle>
+	<packimage>01-SE</packimage>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>SE</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>3</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>7</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Boosterpack - Energize</packtitle>
+	<packimage>02-En</packimage>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>En</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>3</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>7</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Boosterpack - Call to Arms</packtitle>
+	<packimage>03-CA</packimage>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>CA</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>3</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>7</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Boosterpack - Necessary Evil</packtitle>
+	<packimage>04-NE</packimage>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>NE</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>3</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>7</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Boosterpack - Fractured Time - BOX (40 cards only)</packtitle>
+	<packimage>05-FT</packimage>
+	<packkind>Booster</packkind>
+	<packdoubles>no</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>FT</data></packcommoncrit>
+	<chance>
+		<kind><qty>40</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>P</data></crit>
+		</kind>
+	</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Boosterpack - Strange New Worlds</packtitle>
+	<packimage>07-SW</packimage>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>SW</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>3</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>7</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Boosterpack - To Boldly Go</packtitle>
+	<packimage>08-BG</packimage>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>BG</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>3</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>7</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Boosterpack - Dangerous Missions</packtitle>
+	<packimage>09-DM</packimage>
+	<packkind>Booster</packkind>
+	<packdoubles>no</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>DM</data></packcommoncrit>
+	<chance>
+		<kind><qty>11</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+	</chance>
+</pack>
+</packdefinitions>
+
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Boosterpack - Captain's Log</packtitle>
+	<packimage>10-CL</packimage>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>CL</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>3</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>7</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Boosterpack - Genesis</packtitle>
+	<packimage>11-Ge</packimage>
+	<packkind>Booster</packkind>
+	<packdoubles>no</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>Gen</data></packcommoncrit>
+	<chance>
+		<kind><qty>11</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>P</data></crit>
+		</kind>
+	</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Boosterpack - These Are The Voyages</packtitle>
+	<packimage>12-TV</packimage>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>TV</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>3</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>7</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Boosterpack - In A Mirror Darkly</packtitle>
+	<packimage>13-IMD</packimage>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>IMD</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>3</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>7</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+</pack>
+</packdefinitions>
+<packdefinitions version="1.0">
+<pack>
+	<packtitle>Boosterpack - What You Leave Behind</packtitle>
+	<packimage>14-WYLB</packimage>
+	<packkind>Booster</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>WYLB</data></packcommoncrit>
+	<chance>
+		<kind><qty>1</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>R</data></crit>
+		</kind>
+		<kind><qty>3</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>U</data></crit>
+		</kind>
+		<kind><qty>7</qty>
+			<crit><field>Rarity</field><eval>IS</eval><data>C</data></crit>
+		</kind>
+	</chance>
+</pack>
+</packdefinitions>

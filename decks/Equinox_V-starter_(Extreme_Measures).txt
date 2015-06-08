@@ -1,0 +1,62 @@
+1	Angelo Tassoni
+1	Angelo Tassoni
+1	Equinox Doctor Unethical Medical Hologram
+1	Marla Gilmore Conflicted Engineer
+1	Maxwell Burke Arrogant First Officer
+1	Noah Lessing Driven Officer
+1	Rudolph Ransom Devious Captain
+1	Rudolph Ransom Devious Captain
+1	Thompson
+1	Thompson
+1	Thompson
+1	Anastasia Komananov Russian Seductress
+1	Arandis Risan Facilitator
+1	Kes Experienced Ocampa
+1	Kaitaama Precious Cargo
+1	B'Elanna Torres Straightforward Engineer
+1	Delvok
+1	Delvok
+1	Syrran Desert Wind
+1	Marquay
+1	Marquay
+1	U.S.S. Equinox Determined To Get Home
+1	U.S.S. Equinox Determined To Get Home
+1	U.S.S. Equinox Determined To Get Home
+1	Finding Our Way
+1	Forcing Their Way
+1	Forcing Their Way
+1	Interspatial Fissures
+1	Interspatial Fissures
+1	Interspatial Fissures
+1	Relentless Attacks
+1	Relentless Attacks
+1	Escape
+1	Unexpected Difficulties
+1	Uninvited
+Dilemmas:
+1	Breaking the Ice
+1	Chula: The Precipice
+1	Dark Page
+1	Dark Page
+1	Forced Into Labor
+1	Echo Papa Attack
+1	Healing Hand
+1	Polywater Intoxication
+1	Mark of Gideon
+1	Family
+1	Predictable Response
+1	He Wasn't Nice
+1	Pillage and Plunder
+1	Setting the Stage
+1	Miner Revolt
+1	Just Following Orders
+1	The First Duty
+1	What Lies Beneath
+1	Personal Duty
+1	Timescape
+Missions:
+1	Caretaker's Array
+1	Obtain Advanced Technology
+1	Assault on Species 8472
+1	Locate Fuel Source
+1	Inversion Mystery

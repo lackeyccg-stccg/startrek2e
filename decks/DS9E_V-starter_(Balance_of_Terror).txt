@@ -1,0 +1,62 @@
+1	Miles O'Brien Connelly
+1	Sumek
+1	Sumek
+1	Lance Cartwright Co-Conspirator
+1	Benjamin Sisko Acting Head of Starfleet Security
+1	Solok Calculating Rival
+1	Dexter Remmick Alien Thrall
+1	Boq'ta
+1	Boq'ta
+1	Gregory Quinn Alien Courier
+1	Karen Loews Patient Chaperone
+1	Leyton Suspicious Executive
+1	Charles Whatley Professional Admiral
+1	Oq'nab Academy Commandant
+1	Sparber
+1	Sparber
+1	Sparber
+1	Jaresh-Inyo Federation President
+1	Worf Clandestine Staffer
+1	Luther Sloan Man of Action
+1	Julian Bashir Nostalgic Doctor
+1	Paxton Reese Stellar Cartographer
+1	Russell Toddman Security Conscious
+1	William Ross "Temporary" Ally
+1	William Ross "Temporary" Ally
+1	Delvok
+1	Delvok
+1	U.S.S. Centaur Patrolling Ship
+1	U.S.S. Bellerophon Conference Host
+1	U.S.S. Excelsior
+1	U.S.S. Excelsior
+1	Emergency Transport Unit
+1	Unexpected Difficulties
+1	Hollow Hospitality
+1	Power Loss
+Dilemmas:
+1	Breaking the Ice
+1	Dark Page
+1	Dark Page
+1	Echo Papa Attack
+1	Healing Hand
+1	Mark of Gideon
+1	Honorable Pursuit
+1	Family
+1	Flare of Rage
+1	Pillage and Plunder
+1	Pillage and Plunder
+1	Frozen by Fear
+1	Setting the Stage
+1	Just Following Orders
+1	Rude Awakening
+1	We'll Never Know
+1	The First Duty
+1	The First Duty
+1	Staffing Shortage
+1	Timescape
+Missions:
+1	Earth Home of Starfleet Command
+1	Advanced Combat Training
+1	Intercept Maquis
+1	Intercept Renegade
+1	Surgery Under Fire

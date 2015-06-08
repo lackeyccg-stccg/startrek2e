@@ -1,0 +1,62 @@
+1	Pel Profit-Seeker
+1	Miles O'Brien Connelly
+1	Leeta Devoted Wife
+1	Quark Lumba
+1	Grish
+1	Grish
+1	Krem Unidentified Pirate
+1	Muk Unidentified Pirate
+1	Gaila Arms Dealer
+1	Ulis Unidentified Pirate
+1	Reyga Young Scientist
+1	Marta Delusional Seductress
+1	Ajur Temporal Thief
+1	Boratus Temporal Thief
+1	Jadzia Dax Tongo Player
+1	Brunt Acting Grand Nagus
+1	Nilva Lascivious Chairman
+1	Uri'lash Silent Servant
+1	Gozar
+1	Krunk
+1	Krunk
+1	Letek
+1	Letek
+1	Mordoc
+1	Nava
+1	Quetsivoo Unidentified Pirate Ship
+1	Quetsivoo Unidentified Pirate Ship
+1	Quetsivoo Unidentified Pirate Ship
+1	Orion Interceptor
+1	Exocomp
+1	Emergency Transport Unit
+1	Self-Sealing Stem Bolts
+1	Oo-mox
+1	Oo-mox
+1	Unexpected Difficulties
+Dilemmas:
+1	Breaking the Ice
+1	Infatuation
+1	Dark Page
+1	Dark Page
+1	Forced Into Labor
+1	Ferengi Locator Bomb
+1	Repressed Message
+1	Healing Hand
+1	Polywater Intoxication
+1	Honorable Pursuit
+1	Family
+1	Pillage and Plunder
+1	Infinite Diversity
+1	Setting the Stage
+1	Pitching In
+1	Occupational Hazards
+1	The First Duty
+1	Agonizing Encounter
+1	Personal Duty
+1	Timescape
+Missions:
+1	Ferenginar Financial Hub
+1	Elude Federation Forces
+1	Purchase Moon
+1	Feldomite Rush
+1	Investigate Rogue Comet
