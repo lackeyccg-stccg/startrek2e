@@ -278,3 +278,14 @@ NEW
 - Added Strange Bedfellows
 CHANGES
 - Included April Errata
+
+------
+2.0 (11-13-15)
+(Nava)
+
+NEW
+- Added Face of the Enemy
+CHANGES
+- Included July Errata
+- Switched hosting to git
+- dropped obsolete "Printable" column

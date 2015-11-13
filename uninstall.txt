@@ -1,16 +1,4 @@
 <uninstall>
-<dateYYMMDD>141208</dateYYMMDD>
-<removepath>sets/setimages/general/STVE-EN23051.jpg</removepath>
-<removepath>sets/setimages/general/STVE-EN23051.jpg</removepath>
-<removepath>sets/setimages/general/STVE-EN18027.jpg</removepath>
-<removepath>sets/setimages/general/STVE-EN17089.jpg</removepath>
-<removepath>sets/setimages/general/STVE-EN16035.jpg</removepath>
-<removepath>sets/setimages/general/st2e-en13089.jpg</removepath>
-<removepath>sets/setimages/general/st2e-en12039.jpg</removepath>
-<removepath>sets/setimages/general/st2e-en11022ab.jpg</removepath>
-<removepath>sets/setimages/general/ST2E-EN07069.jpg</removepath>
-<removepath>sets/setimages/general/ST2E-EN07068.jpg</removepath>
-<removepath>sets/setimages/general/ST2E-EN05028.jpg</removepath>
-<removepath>sets/setimages/general/ST2E-EN03155.jpg</removepath>
+<dateYYMMDD>151113</dateYYMMDD>
 </uninstall>
 
