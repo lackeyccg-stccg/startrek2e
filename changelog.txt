@@ -280,7 +280,7 @@ CHANGES
 - Included April Errata
 
 ------
-2.0 (11-13-15)
+2.0 (11-14-15)
 (Nava)
 
 NEW
