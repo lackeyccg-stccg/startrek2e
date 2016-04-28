@@ -289,3 +289,20 @@ CHANGES
 - Included July Errata
 - Switched hosting to git
 - dropped obsolete "Printable" column
+
+------
+2.1 (04-28-16)
+(Nava)
+
+NEW
+- Added A Time to Stand
+CHANGES
+- Included latest Errata
+- updated VP cards
+- cleaned up text on many cards
+- changed title for:
+	Joaquin Superhuman Lieutenant
+	Winn Adami Renegade Priest
+	Yteppa Obsidian Order Asset
+	Historical Curiosity
+	Invasive Transporters

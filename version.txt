@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>151114</lastupdateYYMMDD>
+<lastupdateYYMMDD>160428</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/updatelist.txt</updateurl>
-<message>update 2.0 Errata and Face of the Enemy Release; Switched hosting to git. Change log: https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/changelog.txt</message>
+<message>update 2.1 A Time To Stand Release. errata and houskeeping. Change log: https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/changelog.txt</message>
 </version>
