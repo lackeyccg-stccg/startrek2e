@@ -306,3 +306,13 @@ CHANGES
 	Yteppa Obsidian Order Asset
 	Historical Curiosity
 	Invasive Transporters
+
+------
+2.2 (09-11-16)
+(Nava)
+
+NEW
+- Added A Hard Time
+CHANGES
+- Included latest Errata
+- updated VP cards
