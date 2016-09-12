@@ -316,3 +316,10 @@ NEW
 CHANGES
 - Included latest Errata
 - updated VP cards
+
+------
+2.2.1 (09-13-16)
+(Nava)
+
+CHANGES
+- Changes to Virtual.txt to fix problems with image downloads.
