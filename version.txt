@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>160914</lastupdateYYMMDD>
+<lastupdateYYMMDD>160930</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/updatelist.txt</updateurl>
-<message>update 2.2.2 Hard Time release Release. 2nd Correction to fix image problems. Change log: https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/changelog.txt</message>
+<message>update 2.3 50th anniversary set added. Change log: https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/changelog.txt</message>
 </version>

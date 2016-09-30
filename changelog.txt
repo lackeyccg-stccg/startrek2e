@@ -330,3 +330,10 @@ CHANGES
 
 CHANGES
 - Another set of changes to Virtual.txt and Physical.txt to fix problems with image download (Thanks Gordo!)
+
+------
+2.2.2 (09-30-16)
+(Nava)
+
+NEW
+- Added 50th anniversary set.
