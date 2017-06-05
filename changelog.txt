@@ -344,3 +344,14 @@ NEW
 
 NEW
 - Added League promo (After Action Report).
+
+2.4 (06-06-17)
+(Nava)
+
+------
+NEW
+- Added Zero Hour.
+- Added Tournament Promos XIV, New Player Promo (Jim Shimoda) and Miramanee.
+
+CHANGED
+- Added Keywords to 50th anniversary set 
