@@ -1,12 +1,13 @@
-startrek2e	06-06-17
-plugins/startrek2e/version.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/version.txt	39491
+startrek2e	06-16-17
+plugins/startrek2e/version.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/version.txt	40254
 plugins/startrek2e/defaultchat.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/defaultchat.txt	25474
 plugins/startrek2e/uninstall.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/uninstall.txt	4617
 plugins/startrek2e/plugininfo.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/plugininfo.txt	578009
-plugins/startrek2e/formats.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/formats.txt	21435
-plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/changelog.txt	518335
-plugins/startrek2e/sets/Virtual.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/sets/Virtual.txt	32814677
-plugins/startrek2e/sets/Physical.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/sets/Physical.txt	40720536
+plugins/startrek2e/formats.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/formats.txt	27196
+plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/changelog.txt	529171
+plugins/startrek2e/sets/Virtual.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/sets/Virtual.txt	32816487
+plugins/startrek2e/sets/Physical.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/sets/Physical.txt	40720532
+plugins/startrek2e/sets/Excelsior.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/sets/Excelsior.txt	9134262
 plugins/startrek2e/av-st-back.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/av-st-back.jpg	5386
 plugins/startrek2e/av-st-data1.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/av-st-data1.jpg	2347
 plugins/startrek2e/av-st-data2.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/av-st-data2.jpg	4419

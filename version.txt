@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>060617</lastupdateYYMMDD>
+<lastupdateYYMMDD>160617</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/updatelist.txt</updateurl>
-<message>update 2.4 Zero Hour added. Change log: https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/changelog.txt</message>
+<message>update 2.5 Excelsior format added. Change log: https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/changelog.txt</message>
 </version>

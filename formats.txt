@@ -14,4 +14,8 @@
 	<set>Ge</set>
 	<set>TV</set>
 </format>
+<format>
+	<label>Excelsior</label>
+	<set>Excelsior</set>
+</format>
 </formatdefinitions>

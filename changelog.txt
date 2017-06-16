@@ -354,4 +354,14 @@ NEW
 - Added Tournament Promos XIV, New Player Promo (Jim Shimoda) and Miramanee.
 
 CHANGED
-- Added Keywords to 50th anniversary set 
+- Added Keywords to 50th anniversary set
+
+2.5 (06-16-17)
+(Nava)
+
+------
+NEW
+- Added Excelsior format (and set data).
+
+CHANGED
+- Changed Name on Ru’afo, Reluctant „Friend“ and Maihar’du, Silent Servant 
