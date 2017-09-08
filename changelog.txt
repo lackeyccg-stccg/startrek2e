@@ -365,3 +365,11 @@ NEW
 
 CHANGED
 - Changed Name on Ru’afo, Reluctant „Friend“ and Maihar’du, Silent Servant 
+
+2.5.1 (09-08-17)
+(Nava)
+
+------
+CHANGED
+- Changed Excelsior format (and set data) to v0.3.
+- Added September errata.
