@@ -373,3 +373,10 @@ CHANGED
 CHANGED
 - Changed Excelsior format (and set data) to v0.3.
 - Added September errata.
+
+2.6 (10-21-17)
+(Nava)
+
+------
+NEW
+- Added Nth Degree.
