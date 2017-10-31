@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>171021</lastupdateYYMMDD>
+<lastupdateYYMMDD>171101</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/updatelist.txt</updateurl>
-<message>2.6  Nth Degree added. Change log: https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/changelog.txt</message>
+<message>2.6.1  Dead Stop added. Change log: https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/changelog.txt</message>
 </version>

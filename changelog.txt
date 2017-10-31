@@ -380,3 +380,11 @@ CHANGED
 ------
 NEW
 - Added Nth Degree.
+
+2.6.1 (11-01-17)
+(Nava)
+
+------
+NEW
+- Added Dead Stop.
+
