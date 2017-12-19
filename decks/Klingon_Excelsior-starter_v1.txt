@@ -1,0 +1,61 @@
+1	Bat'leth
+2	The Spirit of Kahless
+1	Ferocity
+1	Warrior's Birthright
+1	B'amara
+1	B'Etor Ambitious Renegade
+1	Bregath
+1	Dokar
+1	Filuz
+1	Gowron Sole Leader of the Empire
+1	J'Dan
+1	K'Ehleyr Uncertain Emissary
+1	Kahless The Greatest Warrior of Them All
+1	Kahlest GhojmoH of Worf
+1	Kahmis
+1	Kamarag Passionate Orator
+1	Khos
+1	Konmel Renegade Warrior
+1	Korris Renegade Captain
+1	Kromm
+1	Kroval
+1	Kurak Warp Field Specialist
+1	Kurn Squadron Commander
+1	Lursa Ambitious Renegade
+1	Meraht
+1	Nu'Daq Tenacious Rival
+1	T'vis
+1	Vorax
+1	Worf Son of Mogh
+1	Pran Tainer Atrean Seismologist
+1	I.K.S. Hegh'ta
+1	I.K.S. Maht-H'a
+1	I.K.S. Qam-Chee
+1	I.K.S. T'Ong Sleeper Ship
+Dilemmas:
+1	Back Room Dealings
+1	Dark Page
+1	Dragon's Teeth
+1	Exposed Power Relay
+1	Guess Who's Coming to Dinner?
+1	Kelvan Show of Force
+1	Moral Choice
+1	The Needs of the Many
+1	Unfamiliar Etiquette
+1	Weight of Command
+1	Assassination Attempt
+1	Cultural Differences
+1	Know Thy Enemy
+1	Neural Parasites
+1	The Demands of Duty
+1	Ardent Predator
+1	Left Behind
+1	Silent Witness
+1	Tactical Disadvantage
+1	Warp Bubble Mishap
+Missions:
+1	Qo'noS Heart of the Empire
+1	Advanced Combat Training
+1	Brute Force
+1	Advanced Battle Simulation
+1	Kavis Alpha Research Binary Star	

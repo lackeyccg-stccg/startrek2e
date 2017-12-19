@@ -1,0 +1,59 @@
+1	Alvera Tree Ritual
+1	New Life
+3	Common Ground
+1	Forever Linked
+1	One Man Can Summon the Future
+2	Unexpected Difficulties
+2	Signs of Sentience
+1	Benjamin Maxwell Misguided Maverick
+1	Beverly Crusher Encouraging Commander
+1	Bruce Maddox Chair of Robotics
+3	Data Proud Father
+2	Garvey
+1	Homn Lurching Valet
+1	Jean-Luc Picard Genial Captain
+1	Kurn Exchange Officer
+2	Martinez
+2	Richardson
+1	Sito Jaxa Undercover "Terrorist"
+1	K'Ehleyr Uncertain Emissary
+1	Nu'Daq Tenacious Rival
+2	Ira Graves Noted Molecular Cyberneticist
+3	Juliana Tainer Unknowing Automaton
+3	Lal Beloved
+3	Lore The One
+2	Noonien Soong Often-Wrong
+3	Soong-type Android
+1	Galathon Steadfast Rival
+1	Stefan DeSeve Disillusioned Expatriate
+1	U.S.S. Enterprise-D Diplomatic Envoy
+1	U.S.S. Phoenix Wayward Starship
+1	Assimilator Rogue Borg Vessel
+Dilemmas:
+2	Agonizing Encounter
+1	Code Forty-Seven
+2	Dereliction of Duty
+2	Discommendation
+1	Exposed Power Relay
+2	In Development
+2	Moral Choice
+1	Ominous Presence
+1	Pinned Down
+1	Racial Tension
+1	Shared Hallucination
+2	Shocking Betrayal
+2	Weight of Command
+1	Chained Environment
+1	Greater Needs
+2	Picking Up the Pieces
+1	Unknown Microorganism
+2	Brothers
+1	Personal Duty
+1	Rush Job
+1	The Nth Degree
+Missions:
+1	Earth Cradle of the Federation
+1	Alpha 5 Approach Transport Crash Survivor
+1	Loren III Combined Discovery
+1	Rigel X Locate Mysterious Contact
+1	Investigate Derelict

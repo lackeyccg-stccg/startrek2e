@@ -1,0 +1,61 @@
+1	Hypospray
+1	Catastrophic Quip
+1	Forever Linked
+1	New Life
+1	Mutual Advantage
+1	Well Wishes
+1	Uninvited
+1	Alyssa Ogawa Enterprise Medical Assistant
+1	Benjamin Maxwell Misguided Maverick
+1	Beverly Crusher Encouraging Commander
+1	Daniel Kwan
+1	Data Masquerading Monarch
+2	Davies
+1	Deanna Troi Ship's Counselor
+1	Dr. Leah Brahms Holographic Representation
+1	Elizabeth Shelby Formidable Presence
+1	Garvey
+1	Geordi La Forge Conn Officer
+1	Jean-Luc Picard Genial Captain
+1	Jim Shimoda Under the Influence
+1	Martinez
+1	Miles O'Brien Conn Officer
+1	Reginald Barclay Exceeding Limits
+1	Richardson
+1	Robin Lefler Pragmatic Specialist
+1	Sito Jaxa Undercover "Terrorist"
+1	Tasha Yar Chief of Security
+1	William T. Riker Facing Apotheosis
+1	Worf Chief of Security
+1	Wesley Crusher Prodigy
+1	U.S.S. Enterprise-D Diplomatic Envoy
+1	U.S.S. Nebula
+1	U.S.S. Pasteur Medical Ship
+1	U.S.S. Phoenix Wayward Starship
+Dilemmas:	
+1	Coolant Leak
+1	Dead Ringer
+1	Dead Weight
+1	Dereliction of Duty
+1	Discommendation
+1	Family
+1	Indecent Proposal
+1	Nose to Nose
+1	Ominous Presence
+1	Pinned Down
+1	Shared Hallucination
+1	Show Trial
+1	Temptation
+1	Weight of Command
+1	Flim-Flam Artist
+1	Standing Trial
+1	The Launching
+1	Adversarial Trial
+1	One Step Ahead
+1	Personal Duty
+Missions:	
+1	Earth Cradle of the Federation
+1	Agricultural Assessment
+1	Surgery Under Fire
+1	Evaluate Soliton Wave
+1	Starbase 718 Investigate Cryosatellite
