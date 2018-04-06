@@ -1,12 +1,12 @@
-startrek2e	12-19-17
-plugins/startrek2e/version.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/version.txt	40047
+startrek2e	04-06-18
+plugins/startrek2e/version.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/version.txt	39886
 plugins/startrek2e/defaultchat.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/defaultchat.txt	25474
 plugins/startrek2e/uninstall.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/uninstall.txt	4617
 plugins/startrek2e/plugininfo.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/plugininfo.txt	578009
 plugins/startrek2e/formats.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/formats.txt	27196
-plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/changelog.txt	553316
-plugins/startrek2e/sets/Virtual.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/sets/Virtual.txt	33750299
-plugins/startrek2e/sets/Physical.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/sets/Physical.txt	40721878
+plugins/startrek2e/changelog.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/changelog.txt	561002
+plugins/startrek2e/sets/Virtual.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/sets/Virtual.txt	34870888
+plugins/startrek2e/sets/Physical.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/sets/Physical.txt	40722789
 plugins/startrek2e/sets/Excelsior.txt	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/sets/Excelsior.txt	9953306
 plugins/startrek2e/av-st-back.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/av-st-back.jpg	5386
 plugins/startrek2e/av-st-data1.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/av-st-data1.jpg	2347

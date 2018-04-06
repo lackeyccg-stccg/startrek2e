@@ -400,3 +400,15 @@ NEW
 
 CHANGED
 - Changed Excelsior format (and set data) to v1.0.
+
+2.7 (04-06-18)
+(Eberlems, Nava)
+
+------
+NEW
+- Added „Symbiosis“.
+- Added VP 192-207, 218-221 & 231
+
+CHANGED
+- Added April errata.
+
