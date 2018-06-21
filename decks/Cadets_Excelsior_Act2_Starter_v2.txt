@@ -1,0 +1,66 @@
+1	Dorian Collins Acting Chief Petty Officer
+1	Karen Farris Rigorous Leader
+1	Seth Matthews Red Squad Cadet
+1	Tim Watters Valiant Captain
+1	William T. Riker First Officer
+1	William T. Riker First Officer
+1	Norah Satie Starfleet Investigator
+1	Miles O'Brien Transporter Chief
+1	Roga Danar Decorated Subhadar
+1	Andrea Brand Academy Superintendent
+1	Elizabeth Shelby Formidable Presence
+1	Jean-Luc Picard Argo Pilot
+1	Jean-Luc Picard Argo Pilot
+1	Nog Eager Cadet
+1	Starfleet Type-2 Phaser
+1	Escape
+1	Escape
+1	U.S.S. Nebula
+1	U.S.S. Nebula
+1	U.S.S. Nebula
+1	U.S.S. Valiant Red Squad Training Ship
+1	Dr. Leah Brahms Holographic Representation
+1	Boothby Groundskeeper
+1	Jean Hejar Nova Squadron Navigator
+1	Nicholas Locarno Nova Squadron Leader
+1	Sito Jaxa Nova Squadron Pilot
+1	Wesley Crusher Nova Squadron Pilot
+1	Delvok
+1	Kamala The Perfect Mate
+1	Surprise Party
+1	Tasha Yar Weapons Specialist
+1	Nimira
+1	New Life
+1	Homn Lurching Valet
+1	Universal Translator
+Dilemmas:
+1	Drumhead
+1	Disruptor Accident
+1	Flim-Flam Artist
+1	Close Call
+1	Agonizing Encounter
+1	Agonizing Encounter
+1	Outclassed
+1	Neural Parasites
+1	What Lies Beneath
+1	Show Trial
+1	Miner Revolt
+1	Miner Revolt
+1	Pitching In
+1	Pitching In
+1	Intimidation
+1	Intimidation
+1	Standing Trial
+1	Inquest
+1	The Needs of the Few
+1	The Needs of the Many
+1	Unconventional Consideration
+1	Temptation
+1	Temptation
+1	Mutinous Guests
+Missions:
+1	Earth Cradle of the Federation
+1	Clash at Chin'toka
+1	Obtain Vaccine
+1	Practice Orbital Maneuvers
+1	Ba'ku Planet Safeguard Civilization

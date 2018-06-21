@@ -1,0 +1,69 @@
+1	Ixtana'Rax Honored Elder
+1	Kudak'Etan Arrogant First
+1	Borath Psychological Researcher
+1	Ikat'ika Honorable Warrior
+1	Keevan Conniving Liar
+1	Limara'Son Fierce Soldier
+1	Remata'Klan Unit Leader
+1	Remata'Klan Unit Leader
+1	Weyoun Instrument of the Founders
+1	Jem'Hadar Warship
+1	Jem'Hadar Warship
+1	Jem'Hadar Warship
+1	Umat'Adan Eager Fifth
+1	Bashir Founder Imperturbable Infiltrator
+1	Lam
+1	Odo The Great Link's Savior
+1	Talak'talan Keen Third
+1	Uninvited
+1	Uninvited
+1	Uninvited
+1	Arak'Taral Suspicious Second
+1	Arak'Taral Suspicious Second
+1	Luaran Critical Coordinator
+1	Amat'igan Founder Bodyguard
+1	Crom Open-minded
+1	Crom Open-minded
+1	Draz Overeager
+1	Founder Instigator Unmasked
+1	Kilana Unctuous Negotiator
+1	Mobilization Points
+1	Mobilization Points
+1	Mobilization Points
+1	Toman'torax Obstinate Second
+1	Guna'shan
+1	Guna'shan
+Dilemmas:
+1	Chula: Pick One to Save Two
+1	Chula: Pick One to Save Two
+1	Chula: Pick One to Save Two
+1	Agonizing Encounter
+1	Agonizing Encounter
+1	Chula: Move Along Home
+1	Chula: Move Along Home
+1	Chula: Move Along Home
+1	Chula: Unfortunate Roll
+1	Chula: Unfortunate Roll
+1	Chula: Unfortunate Roll
+1	Chula: The Precipice
+1	Chula: The Precipice
+1	Chula: The Precipice
+1	Pitching In
+1	Pitching In
+1	Chula: The Game
+1	Chula: The Game
+1	Chula: The Game
+1	Chula: Trickery
+1	Chula: Trickery
+1	Chula: Trickery
+1	A Taste of Armageddon
+1	Simulated Prey
+1	Dragon's Teeth
+1	Dragon's Teeth
+1	Dragon's Teeth
+Missions:
+1	Vandros IV Destroy Iconian Gateway
+1	Founders' Homeworld Home of the Great Link
+1	Stage Covert Fleet
+1	Torga IV Strained Negotiations
+1	Teplan Prime Subjugate Planet

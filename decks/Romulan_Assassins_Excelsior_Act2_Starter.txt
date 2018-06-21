@@ -1,0 +1,73 @@
+1	Velal Reluctant Aggressor
+1	B'Etor Romulan Conspirator
+1	Lursa Romulan Conspirator
+1	Mareth
+1	Taul
+1	Taul
+1	Sirol Diplomatic Adversary
+1	Jo'Bril Patient Schemer
+1	Pran Tainer Atrean Seismologist
+1	Donatra Compassionate Patriot
+1	Selveth Tal Shiar Pilot
+1	Tal'Aura Impatient Senator
+1	Tal'Aura Impatient Senator
+1	Taris Deceitful Subcommander
+1	Escaping Detection
+1	Escaping Detection
+1	Escaping Detection
+1	D'deridex Advanced
+1	D'deridex Advanced
+1	Jera
+1	Unexpected Difficulties
+1	Unexpected Difficulties
+1	Unexpected Difficulties
+1	Kalenna Sentry
+1	Geordi La Forge Sleeper Agent
+1	Geordi La Forge Sleeper Agent
+1	Navok
+1	Rasul
+1	Rasul
+1	Retaya Chemical Agent
+1	Stefan DeSeve Disillusioned Expatriate
+1	T'Met Timely Reinforcement
+1	Ru'afo Reluctant "Partner"
+1	Shinzon Devious Tactician
+1	Shinzon Devious Tactician
+Dilemmas:
+1	Aggressive Behavior
+1	Flim-Flam Artist
+1	Skeleton Crew
+1	Skeleton Crew
+1	Skeleton Crew
+1	Neural Parasites
+1	Show Trial
+1	In-Fighting
+1	In-Fighting
+1	Miner Revolt
+1	Punishment Box
+1	Assassin Team
+1	Greater Needs
+1	Greater Needs
+1	Greater Needs
+1	The Big Goodbye
+1	The Big Goodbye
+1	The Big Goodbye
+1	Intimidation
+1	Ingenious Jury-rig
+1	Inquest
+1	Unsound Logic
+1	Unsound Logic
+1	Unsound Logic
+1	Pitching In
+1	Pitching In
+1	Dragon's Teeth
+1	Dragon's Teeth
+1	Bread and Circuses
+1	Interstellar Exigence
+1	Interstellar Exigence
+Missions:
+1	Iconia Investigation
+1	Romulus Seat of Power
+1	Supervise Dilithium Mine
+1	Patrol Neutral Zone
+1	Nelvana III Compelling Threat

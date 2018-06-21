@@ -1,0 +1,72 @@
+1	Enabran Tain "Retired" Spymaster
+1	Enabran Tain "Retired" Spymaster
+1	Enabran Tain "Retired" Spymaster
+1	Hogue Student of Political Ethics
+1	Jural
+1	Natima Lang Professor of Political Ethics
+1	Elim Garak Agent of the Obsidian Order
+1	Emok
+1	Rogesh
+1	Shady Resources
+1	Shady Resources
+1	Keldon Advanced
+1	Keldon Advanced
+1	Keldon Advanced
+1	Aldara
+1	Tekeny Ghemor Prominent Official
+1	Macet Skeptical Commander
+1	Nador Curious Commander
+1	Korinas Observer from the Obsidian Order
+1	Evek Agent of Cardassian Justice
+1	Evek Agent of Cardassian Justice
+1	Surprise Party
+1	Dukat Ambitious Commander
+1	Groumall Inauspicious Command
+1	Damar Ambitious Glinn
+1	Damar Ambitious Glinn
+1	Tora Ziyal Ambitious Daughter
+1	Gollek
+1	Gollek
+1	Tajor
+1	Yteppa Obsidian Order Asset
+1	Mila Trusted Confidante
+1	Seska Pragmatic Agent
+1	Makbar State Jurist
+1	Dolak Offended Neighbor
+Dilemmas:
+1	Temptation
+1	Temptation
+1	Cardassian Processing
+1	Cardassian Processing
+1	Cardassian Processing
+1	Outclassed
+1	Outclassed
+1	Stand-Off
+1	Neural Parasites
+1	Agonizing Encounter
+1	Agonizing Encounter
+1	Duty Schedule
+1	Duty Schedule
+1	Intimidation
+1	Intimidation
+1	Ingenious Jury-rig
+1	Ingenious Jury-rig
+1	Ingenious Jury-rig
+1	Standing Trial
+1	Standing Trial
+1	Inquest
+1	Legal Inflexibility
+1	Unconventional Consideration
+1	Pitching In
+1	Pitching In
+1	Dragon's Teeth
+1	Dragon's Teeth
+1	Interstellar Exigence
+1	Interstellar Exigence
+1	Interstellar Exigence
+Missions:
+1	Abduction Plot
+1	Cardassia Prime Hardscrabble World
+1	Intercept Renegade
+1	Extract Defector
+1	Commandeer Prototype
