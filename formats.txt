@@ -65,7 +65,9 @@
 	<set>DS</set>
 	<set>SY</set>
 	<set>FBtS</set>
-	<set>VAP</set></format>
+	<set>VP</set>
+	<set>VAP</set>
+</format>
 <format>
 	<label>Excelsior</label>
 	<set>Excelsior</set>
@@ -73,4 +75,5 @@
 <format>
 	<label>Excelsior 1.1</label>
 	<set>Excelsior 1.1</set>
-</format></formatdefinitions>
+</format>
+</formatdefinitions>
