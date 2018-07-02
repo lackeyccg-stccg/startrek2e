@@ -401,6 +401,7 @@ NEW
 CHANGED
 - Changed Excelsior format (and set data) to v1.0.
 
+
 2.7 (04-06-18)
 (Eberlems, Nava)
 
@@ -412,3 +413,16 @@ NEW
 CHANGED
 - Added April errata.
 
+
+2.8 (07-02-18)
+(Eberlems, Nava)
+
+------
+NEW
+- Added „FBtS“.
+- Added Excelsior 1.1 + Demo Decks
+
+CHANGED
+- multiple typos fixed
+- formats
+- removed pre-errata images
