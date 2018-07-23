@@ -414,8 +414,8 @@ CHANGED
 - Added April errata.
 
 
-2.8 (07-02-18)
-(Eberlems, Nava)
+2.8 (23-02-18)
+(Eberlems)
 
 ------
 NEW
