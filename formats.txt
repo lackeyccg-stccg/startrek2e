@@ -1,6 +1,7 @@
 <formatdefinitions>
 <format>
-	<label>Printed Sets</label>
+	<label>Traditional</label>
+	<set>X</set>
 	<set>SE</set>
 	<set>En</set>
 	<set>CA</set>
@@ -13,9 +14,66 @@
 	<set>CL</set>
 	<set>Ge</set>
 	<set>TV</set>
+	<set>IMD</set>
+	<set>WYLB</set>
+</format>
+<format>
+	<label>Standard</label>
+	<set>X</set>
+	<set>SE</set>
+	<set>En</set>
+	<set>CA</set>
+	<set>NE</set>
+	<set>FT</set>
+	<set>R2</set>
+	<set>SW</set>
+	<set>BG</set>
+	<set>DM</set>
+	<set>CL</set>
+	<set>Ge</set>
+	<set>TV</set>
+	<set>IMD</set>
+	<set>WYLB</set>
+	<set>VP</set>
+	<set>FTB</set>
+	<set>TUC</set>
+	<set>RTS</set>
+	<set>TSOP</set>
+	<set>Leg</set>
+	<set>Alg</set>
+	<set>ID</set>
+	<set>PP</set>
+	<set>EM</set>
+	<set>TITW</set>
+	<set>Unity</set>
+	<set>Lineage</set>
+	<set>Tapestry</set>
+	<set>MoT</set>
+	<set>US</set>
+	<set>RtG</set>
+	<set>BoT</set>
+	<set>XX</set>
+	<set>SB</set>
+	<set>LD</set>
+	<set>FotE</set>
+	<set>ATtS</set>
+	<set>IDR</set>
+	<set>HT</set>
+	<set>50</set>
+	<set>ZH</set>
+	<set>ND</set>
+	<set>DS</set>
+	<set>SY</set>
+	<set>FBtS</set>
+	<set>VP</set>
+	<set>VAP</set>
 </format>
 <format>
 	<label>Excelsior</label>
 	<set>Excelsior</set>
+</format>
+<format>
+	<label>Excelsior 1.1</label>
+	<set>Excelsior 1.1</set>
 </format>
 </formatdefinitions>
