@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>180702</lastupdateYYMMDD>
-<versionurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/updatelist.txt</updateurl>
-<message>Far Beyond the Stars, Excelsior 1.1 and Typos fixed. Change log: https://raw.githubusercontent.com/lackeyccg-stccg/startrek2e/master/changelog.txt</message>
+<lastupdateYYMMDD>180730</lastupdateYYMMDD>
+<versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
+<message>Warp Pack added Change log: https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>
