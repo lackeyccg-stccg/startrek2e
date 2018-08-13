@@ -414,8 +414,8 @@ CHANGED
 - Added April errata.
 
 
-2.8 (07-02-18)
-(Eberlems, Nava)
+2.8 (07-23-18)
+(Eberlems)
 
 ------
 NEW
@@ -426,3 +426,11 @@ CHANGED
 - multiple typos fixed
 - formats
 - removed pre-errata images
+
+
+2.8.1 (07-30-18)
+(Eberlems)
+
+------
+NEW
+-Added Warp Pack Accedd Denied
