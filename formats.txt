@@ -67,6 +67,7 @@
 	<set>FBtS</set>
 	<set>VP</set>
 	<set>VAP</set>
+	<set>WPAD</set>
 </format>
 <format>
 	<label>Excelsior</label>
@@ -74,6 +75,6 @@
 </format>
 <format>
 	<label>Excelsior 1.1</label>
-	<set>Excelsior 1.1</set>
+	<set>Excelsior1.1</set>
 </format>
 </formatdefinitions>
