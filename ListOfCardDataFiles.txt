@@ -1,0 +1,6 @@
+<listofcarddatafiles>
+<filetoinclude>Physical.txt</filetoinclude>
+<filetoinclude>Virtual.txt</filetoinclude>
+<filetoinclude>Excelsior.txt</filetoinclude>
+<filetoinclude>Excelsior11.txt</filetoinclude>
+</listofcarddatafiles>
