@@ -1,0 +1,96 @@
+<pluginpreferences>
+
+<lastversionupdate>181123</lastversionupdate>
+<lastuninstalldate>141208</lastuninstalldate>
+<counterstyle>0</counterstyle>
+<counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
+<counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
+<recentskins>stccg</recentskins>
+<recentskins>ali</recentskins>
+<recentskins>default</recentskins>
+<recenttablebackgrounds>default</recenttablebackgrounds>
+<recentzonebackgrounds>default</recentzonebackgrounds>
+<canned>Pass.</canned>
+<canned>Proceed.</canned>
+<canned>Draw to end my turn.</canned>
+<canned>Your turn.</canned>
+<canned>Downloading...</canned>
+<canned>Reporting...</canned>
+<canned>Beaming...</canned>
+<canned>Attempting Mission...</canned>
+<canned>Hold on... Thinking...</canned>
+<canned>BRB wait please!</canned>
+<canned>Good Game!</canned>
+<canned>!Save Game!/save</canned>
+<canned>!Load Game!/load</canned>
+<canned>!Draw 7!/draw7</canned>
+<canned>!Save Log!/log</canned>
+<canned>!Clear Log!/clear</canned>
+<canned>!Draft to Next!/exchangeclockwise</canned>
+<canned>!Edit Deck!/copyzonetocardpool</canned>
+<canned>Good Game!</canned>
+<canned>/mkupdate plugins/startrek2e/updatelist.txt</canned>
+<fontkind0pos0>Arial.ttf</fontkind0pos0>
+<fontkind0pos1>ArialNarrow.ttf</fontkind0pos1>
+<fontkind0pos2>Lucida_Grande.ttf</fontkind0pos2>
+<fontkind0pos3>Lucida_Grande_Bold.ttf</fontkind0pos3>
+<fontkind0pos4>times.ttf</fontkind0pos4>
+<fontkind0pos5>Lato-Reg.ttf</fontkind0pos5>
+<fontkind1pos0>Arial.ttf</fontkind1pos0>
+<fontkind1pos1>ArialNarrow.ttf</fontkind1pos1>
+<fontkind1pos2>Lucida_Grande.ttf</fontkind1pos2>
+<fontkind1pos3>Lucida_Grande_Bold.ttf</fontkind1pos3>
+<fontkind1pos4>times.ttf</fontkind1pos4>
+<fontkind1pos5>Lato-Reg.ttf</fontkind1pos5>
+<fontkind2pos0>Arial.ttf</fontkind2pos0>
+<fontkind2pos1>ArialNarrow.ttf</fontkind2pos1>
+<fontkind2pos2>Lucida_Grande.ttf</fontkind2pos2>
+<fontkind2pos3>Lucida_Grande_Bold.ttf</fontkind2pos3>
+<fontkind2pos4>times.ttf</fontkind2pos4>
+<fontkind2pos5>Lato-Reg.ttf</fontkind2pos5>
+<fontkind3pos0>Arial.ttf</fontkind3pos0>
+<fontkind3pos1>ArialNarrow.ttf</fontkind3pos1>
+<fontkind3pos2>Lucida_Grande.ttf</fontkind3pos2>
+<fontkind3pos3>Lucida_Grande_Bold.ttf</fontkind3pos3>
+<fontkind3pos4>times.ttf</fontkind3pos4>
+<fontkind3pos5>Lato-Reg.ttf</fontkind3pos5>
+<fontsize0>12</fontsize0>
+<fontsize1>12</fontsize1>
+<fontsize2>12</fontsize2>
+<fontsize3>20</fontsize3>
+<bindingmain0>CMD+h</bindingmain0>
+<bindingmain1>CMD+j</bindingmain1>
+<bindingmain4>CMD+n</bindingmain4>
+<bindingmain5>CMD+s</bindingmain5>
+<bindingmain6>CMD+l</bindingmain6>
+<bindingmain9>CMD+f</bindingmain9>
+<bindingmain15>SHIFT+CMD+s</bindingmain15>
+<bindinggeneral0>CMD+d</bindinggeneral0>
+<bindinggeneral1>CMD+m</bindinggeneral1>
+<bindinggeneral3>CMD+RIGHT</bindinggeneral3>
+<bindinggeneral4>CMD+LEFT</bindinggeneral4>
+<bindinggeneral5>CMD+UP</bindinggeneral5>
+<bindinggeneral6>CMD+DOWN</bindinggeneral6>
+<bindingcard2>SHIFT+CMD+EQUALS</bindingcard2>
+<bindingcard3>SHIFT+CMD+MINUS</bindingcard3>
+<bindingcard4>CMD+EQUALS</bindingcard4>
+<bindingcanned0>CMD+1</bindingcanned0>
+<bindingcanned1>CMD+2</bindingcanned1>
+<bindingcanned2>CMD+3</bindingcanned2>
+<bindingcanned3>CMD+4</bindingcanned3>
+<bindingcanned4>CMD+5</bindingcanned4>
+<bindingcanned5>CMD+6</bindingcanned5>
+<bindingcanned6>CMD+7</bindingcanned6>
+<bindingcanned7>CMD+8</bindingcanned7>
+<bindingcanned8>CMD+9</bindingcanned8>
+<libraryignoredoubles>1</libraryignoredoubles>
+<recentformat>-1</recentformat>
+<scalefactor>1.000000</scalefactor>
+<zoomfactor>1.000000</zoomfactor>
+<quickzoom>4.000000</quickzoom>
+<panx>-0.070000</panx>
+<pany>-0.070000</pany>
+<tilt>40.000000</tilt>
+<isdownloadallmissing>1</isdownloadallmissing>
+
+</pluginpreferences>

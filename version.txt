@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>180730</lastupdateYYMMDD>
+<lastupdateYYMMDD>181123</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/eberlems/startrek2e/playable/updatelist.txt</updateurl>
-<message>Warp Pack added Change log: https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
+<message>Errors corrected log: https://raw.githubusercontent.com/eberlems/startrek2e/playable/changelog.txt</message>
 </version>

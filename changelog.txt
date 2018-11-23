@@ -437,4 +437,11 @@ CHANGED
 
 ------
 NEW
--Added Warp Pack Accedd Denied
+-Added Warp Pack Access Denied
+
+2.8.2 (11-23-18)
+(Eberlems)
+
+------
+NEW
+-Corrected a few smaller errors and updated erratas
