@@ -611,7 +611,7 @@ Explore Black Cluster	SE	ST2E-EN01167ab	S	Y	1S167	Mission	0	S	4	35	A	Any affilia
 Extraction	SE	ST2E-EN01168	U	Y	1U168	Mission	0	P	2	35	A	Any affiliation (except [Bor]) may attempt this mission.						Biology, Medical, Treachery, Cunning>36, and (Diplomacy or Intelligence)				
 Feldomite Rush	SE	ST2E-EN01169ab	U	Y	1U169	Mission	0	P	2	30	A	Any affiliation (except [Bor]) may attempt this mission.						Engineer, Geology, Cunning>28, and (Acquisition or Law or 2 Treachery)				
 Fissure Research	SE	ST2E-EN01170	S	Y	1S170	Mission	0	S	3	35	A	Any affiliation may attempt this mission.						Astrometrics, Engineer, Physics, Science, and Cunning>36				
-Geological Survey	SE	ST2E-EN01171	S	Y	1S171	Mission	0	P	2	30	A	[Car] [Fed] [Fer] [NA]						Geology, Physics, Science, and Cunning>30				When you complete this mission, if your personnel completing it have 2 Acquisition or 2 Geology, score 5 points.
+Lapideas System Geological Survey	SE	ST2E-EN01171a	S	Y	1S171	Mission	0	P	2	30	A	[Car] [Fed] [Fer] [NA]						Geology, Physics, Science, and Cunning>30				When you complete this mission, if your personnel completing it have 2 Acquisition or 2 Geology, score 5 points.
 Host Metaphasic Shielding Test	SE	ST2E-EN01172	S	Y	1S172	Mission	0	S	3	35	A	Any affiliation (except [Bor]) may attempt this mission.						Diplomacy, Engineer, Navigation, Science, and Integrity>29				
 Hunt for DNA Program	SE	ST2E-EN01173	U	Y	1U173	Mission	0	P	2	50	A	Any affiliation (except [Bor]) may attempt this mission.						2 Archaeology, 2 Biology, Leadership, Programming, Cunning>44, and (Honor or Treachery)				
 Iconia Investigation	SE	ST2E-EN01174	U	Y	1U174	Mission	0	P	2	35	A	[Dom] [Fed] [Rom]			Region: Neutral Zone. 			2 Archaeology, 2 Programming, and Cunning>32				
